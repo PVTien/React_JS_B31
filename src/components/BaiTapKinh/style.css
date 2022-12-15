@@ -1,0 +1,21 @@
+h1 {
+  background-color: rgba(255, 59, 59, 0.79);
+}
+.glass__left {
+  background-color: #f1f1f1;
+  padding: 20px 40px;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 20px;
+}
+
+.glass__right {
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 20px;
+}
+.model__avatar {
+  background-image: url("../../../public/img/glassesImage/model.jpg");
+  background-size: cover;
+  background-position: center top;
+  height: 600px;
+  border-radius: 20px;
+}
